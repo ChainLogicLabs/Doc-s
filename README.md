@@ -53,7 +53,7 @@ Explore the Proof of Value with these key features:
 
 ## Contact
 
-- **Phone**: 1-802-765-0122
+- **Text**: 1-802-765-0122
 - **Email**: chainlogiclabs@gmail.com
 - **GitHub**: [ChainLogicLabs](https://github.com/ChainLogicLabs)
 
